@@ -2,6 +2,9 @@
 
 A React component that replicates the basic functionality of a volume slider. This component is built using **Motion** (formerly known as Framer Motion) for animations and **Tailwind CSS** for styling.
 
+![App Screenshot](./volumeSlider.png)
+
+
 ---
 
 ## Features
